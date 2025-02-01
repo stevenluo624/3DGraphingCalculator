@@ -1,1 +1,1 @@
-# Scraper - A Web Scraper that assists with Ticket Booking
+# Crawly - A Web Crawler that assists with Ticket Booking
